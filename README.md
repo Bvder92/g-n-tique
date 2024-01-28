@@ -2,12 +2,12 @@
 
 ## Problème du Set Cover
 
-Le Problème du Set Cover est un problème d'optimisation bien connu en informatique et en optimisation combinatoire. Étant donné un ensemble fini \( U \) et une collection de sous-ensembles \( S_i \) de \( U \), l'objectif est de trouver le nombre minimum de sous-ensembles dont l'union équivaut à l'ensemble entier \( U \).
+Le Problème du Set Cover est un problème d'optimisation bien connu en informatique et en optimisation combinatoire. Étant donné un ensemble fini \( U \) et une collection de sous-ensembles $\( S_i \)$ de $\( U \)$, l'objectif est de trouver le nombre minimum de sous-ensembles dont l'union équivaut à l'ensemble entier $\( U \)$.
 
 ### Énoncé du Problème
 
-- **Entrée :** Un ensemble fini \( U \) et une collection de sous-ensembles \( S_i \) de \( U \).
-- **Sortie :** Un sous-ensemble de taille minimale de \( S_i \) dont l'union couvre tous les éléments de \( U \).
+- **Entrée :** Un ensemble fini $\( U \)$ et une collection de sous-ensembles $\( S_i \)$ de $\( U \)$.
+- **Sortie :** Un sous-ensemble de taille minimale de \( S_i \) dont l'union couvre tous les éléments de $\( U \)$.
 
 ## Algorithme Génétique
 
